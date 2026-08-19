@@ -61,20 +61,6 @@ El presupuesto educativo importa, pero **no es el único factor que explica los 
 - La "brecha primaria-secundaria" es una aproximación basada en promedios históricos (2000-2024), no una medición de la misma cohorte de estudiantes a lo largo del tiempo.
 - Corea del Sur (Korea, Rep.) presenta datos incompletos para varios indicadores en el período analizado.
 
-## Estructura del repositorio
-
-```
-├── README.md
-├── data/
-│   ├── educacion_formato_largo.csv    # formato tidy, usado para SQL
-│   ├── educacion_formato_ancho.csv    # un indicador por columna
-│   └── educacion.db                    # base SQLite con ambas tablas
-├── queries.sql                         # consultas SQL utilizadas en el análisis
-└── capturas/
-    ├── grafico1_evolucion_argentina.png
-    ├── grafico2_ranking_paises.png
-    └── grafico3_gasto_vs_resultado.png
-```
 
 ## Herramientas utilizadas
 
