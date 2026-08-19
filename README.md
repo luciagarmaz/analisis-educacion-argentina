@@ -19,7 +19,7 @@ Análisis exploratorio sobre si el gasto público en educación se traduce en me
 ## Metodología
 
 1. **Extracción**: descarga de datos desde World Bank DataBank en formato CSV
-2. **Limpieza**: eliminación de filas de metadata, conversión de formato ancho (años en columnas) a formato largo, tratamiento de valores faltantes (`..` → nulo)
+2. **Limpieza**: eliminación de filas de metadata, conversión de formato ancho (años en columnas) a formato largo, tratamiento de valores faltantes 
 3. **Análisis**: consultas SQL sobre base SQLite para calcular promedios, rankings y comparaciones entre indicadores
 4. **Visualización**: gráficos en Excel a partir de tablas dinámicas
 
