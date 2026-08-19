@@ -39,7 +39,7 @@ Se observa una caída marcada entre 2000 y 2003 (coincidente con la crisis econ�
 
 ### 3. Gastar más no garantiza mejores resultados — el caso Costa Rica
 
-Este es el hallazgo central del análisis: **no existe una relación lineal clara entre gasto e resultados**.
+Este es el hallazgo central del análisis: **no existe una relación lineal clara entre gasto y resultados**.
 
 - **Costa Rica** es el país que más invierte (6.0% del PBI) pero tiene la **tasa de finalización de secundaria más baja** del grupo (58.8%).
 - **Chile** y **España** logran tasas de finalización superiores al 90% con niveles de gasto medios (4.1% y 4.35% respectivamente).
@@ -53,7 +53,7 @@ Al comparar la tasa de finalización de primaria contra la de secundaria por pa�
 
 ## Conclusión
 
-El presupuesto educativo importa, pero **no es el único factor que explica los resultados**. Casos como Chile o Estados Unidos sugieren que la eficiencia en el uso de los recursos —y no solo su magnitud— juega un rol clave. El caso de Costa Rica es una señal de alerta: alta inversión no siempre se traduce en mejor retención escolar. Para Argentina, el dato más preocupante no es el nivel de gasto (que es razonable en la comparación regional), sino la brecha entre primaria y secundaria, que apunta a un problema de retención en el nivel medio.
+El presupuesto educativo importa, pero **no es el único factor que explica los resultados**. Casos como Chile o Estados Unidos sugieren que la eficiencia en el uso de los recursos —y no solo su magnitud— juega un rol clave. El caso de Costa Rica es una señal de alerta: alta inversión no siempre se traduce en mejor retención escolar. Para Argentina, el dato más preocupante no es el nivel de gasto, sino la brecha entre primaria y secundaria, que apunta a un problema de retención en el nivel medio.
 
 ## Limitaciones
 
